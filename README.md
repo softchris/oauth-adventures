@@ -1,5 +1,8 @@
 # 🕳️ Alice and the Token of Return — An OAuth 2.1 Wonderland Tale
 
+This repository means to explain OAuth in a fun and creative way. Here's code you can test to get a sense of how things flow [code](./example-code/README.md). But more importantly here's a whimsical story of Alice's journey through the OAuth 2.1 landscape.
+
+
 ## Scene 1: The Chase Begins
 
 Alice spots the White Rabbit darting through the forest, muttering, “I’m late for the introspection endpoint!”  
