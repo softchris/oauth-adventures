@@ -12,6 +12,7 @@ source venv/bin/activate
 
 ```sh
 pip install flask requests
+```
 
 ## -1- Start auth server
 
